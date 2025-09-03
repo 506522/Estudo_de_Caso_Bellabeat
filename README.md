@@ -56,11 +56,11 @@ Responder à pergunta de negócio:
 
 <img width="757" height="399" alt="Distribuição de Passos" src="https://github.com/user-attachments/assets/43667c65-51c0-4165-961f-64fafae16541" />
 
-<img width="1600" height="1000" alt="media_passos_semana" src="https://github.com/user-attachments/assets/38268e87-0863-463b-b603-0395dc5bde7a" />
+<img width="757" height="399" alt="media_passos_semana" src="https://github.com/user-attachments/assets/38268e87-0863-463b-b603-0395dc5bde7a" />
 
 <img width="757" height="399" alt="Relação de Passo x Calorias" src="https://github.com/user-attachments/assets/3a47027a-7f3b-4b3e-ac42-abe2db083de8" />
 
-<img width="1200" height="1000" alt="sono_vs_passos" src="https://github.com/user-attachments/assets/f405c775-5cdc-4d68-8668-16d159508141" />
+<img width="757" height="399" alt="sono_vs_passos" src="https://github.com/user-attachments/assets/f405c775-5cdc-4d68-8668-16d159508141" />
 
 --
 
