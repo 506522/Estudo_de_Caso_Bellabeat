@@ -62,7 +62,7 @@ Responder à pergunta de negócio:
 
 <img width="757" height="1000" alt="sono_vs_passos" src="https://github.com/user-attachments/assets/f405c775-5cdc-4d68-8668-16d159508141" />
 
---
+---
 
 ## 💡 6. Insights Principais
 1. Usuários estão **abaixo da meta de 10.000 passos/dia**.  
